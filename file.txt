@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 abcd
 something
+=======
+abce
+>>>>>>> fd5a0054db8b803eb0be521199fcf76ee1e9a3a0
